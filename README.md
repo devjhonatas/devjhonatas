@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋 About Me:
 🤝 Procurando uma Oportunidade de Estágio<br>🔭 Focado em Aprender Programação<br>💬 Segue a gente nessa Jornada
 
 
