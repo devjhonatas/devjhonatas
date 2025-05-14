@@ -19,5 +19,5 @@ I am passionate about learning any technology that deepens my understanding and 
 • Git | GitHub | REST APIs
 
 ---
-[![Email](https://img.shields.io/badge/Email-seunome@gmail.com-purple?style=for-the-badge&logo=gmail)](mailto:jhonatasoliveira307@gmail.com)  
+[![Email](https://img.shields.io/badge/](mailto:jhonatasoliveira307@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jhonatasdeoliveira/)
