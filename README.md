@@ -12,13 +12,11 @@ I am passionate about learning any technology that deepens my understanding and 
 
 ---
 
+🛠️ Technologies used by me:
 
-🛠️ Tecnologias que uso:
-- Python | Node.js | Docker
-- PostgreSQL | MySQL | MongoDB
-- Git | GitHub | REST APIs
+• Python | Node.js | Docker
+• PostgreSQL | MySQL | MongoDB
+• Git | GitHub | REST APIs
 
 ---
-
-📈 Sempre buscando evoluir. Bora codar! 🚀
-
+[![Email](https://img.shields.io/badge/Email-seunome@gmail.com-purple?style=for-the-badge&logo=gmail)](mailto:jhonatasoliveira307@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jhonatasdeoliveira/)
